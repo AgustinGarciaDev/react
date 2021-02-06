@@ -1,0 +1,40 @@
+.BagdeNew__hero {
+  width: 100%;
+
+  align-items: center;
+  background: url("http://baravdg.com/wp-content/uploads/2021/01/stars.svg"),
+    #1b1b25;
+  background-repeat: repeat;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Badges_conf-logo {
+  margin-bottom: 2rem;
+}
+.Badges__container {
+  width: 100%;
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+.Badges__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+.Hero__NotFound {
+  display: flex;
+  align-items: center;
+  background: url("http://baravdg.com/wp-content/uploads/2021/01/stars.svg"),
+    #1b1b25;
+  justify-content: center;
+  max-width: 100%;
+  height: 100%;
+}
+.NotFound__img {
+  width: 50%;
+  height: auto;
+}
